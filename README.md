@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pushing further **My Limits**
 - 👨‍💻 All of my repositories are available at [github.com/mihailllaftiu](https://github.com/mihailllaftiu?tab=repositories)
-- 💬 Ask me about **LAMP, Laravel, Servers, Scraping/Crawling, SelfHosted**
+- 💬 Ask me about **LAMP/LEMP, PHP, DB, Laravel, Servers, Scraping/Crawling, SelfHosted**
 - 📫 How to reach me **dev@codegree.eu**
 - 📄 Know about my experiences [linkedin.com/in/mihail-llaftiu](https://www.linkedin.com/in/mihail-llaftiu-b9740260)
 
